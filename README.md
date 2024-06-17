@@ -4,7 +4,7 @@ SkyWatch is a simple, user-friendly weather application that provides current we
 
 ## Demo
 
-Check out the live demo of SkyWatch here.
+Check out the live demo of SkyWatch [here](https://skywatch-weather-app.vercel.app/).
 
 ## Features
 
